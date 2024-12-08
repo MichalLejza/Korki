@@ -25,8 +25,8 @@ def station_dict(lista: list) -> dict:
     slownik: dict = {}
 
     for element in lista:
-        miasto = element[0]
-        opady = element[3]
+        miasto: str = element[0]
+        opady: str = element[3]
         if miasto in slownik:
             slownik[miasto].append(opady)
         else:

@@ -1,9 +1,9 @@
-Jan Kot
-Marek Lis
-Anna Kuna
-Jacek Borsuk
-Jan Kowalski
-Anna Nowak
+'Jan Kot' -> 'Jan' i 'Kot' -> ['Jan' i 'Kot'] -> 'Jan Kot'
+Marek Lis -> ['Marek' i 'Lis']
+Anna Kuna -> ['Anna' i 'Kuna']
+Jacek Borsuk -> ['Jacek' i 'Borsuk']
+Jan Kowalski -> ['Jan' i 'Kowalski']
+Anna Nowak -> ['Anna' i 'Nowak']
 Piotr Wisniewski
 Katarzyna Zielinska
 Tomasz Kaminski

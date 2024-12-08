@@ -12,7 +12,7 @@ def show_rain(data: dict, station: str, month: int) -> float | str:
     if station not in data:
         return 'brak danych'
 
-    opady = data[station]
+    opady: list = data[station]
     opady_danego_miesiaca = opady[month - 1]
     return opady_danego_miesiaca
 
@@ -21,7 +21,7 @@ def show_rain(data: dict, station: str, month: int) -> float | str:
 lista: list = file_to_list('opady.csv', ';', 'utf-8')
 slownik: dict = station_dict(lista)
 print(slownik)
-opady = show_rain(slownik, 'Opole', 2)
+opady = show_rain(slownik, 'Warszawa', 2)
 print(opady)
 
 

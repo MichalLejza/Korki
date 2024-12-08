@@ -7,12 +7,17 @@
 # ‘SEJNY’:[26.1, 27.5, 41.2, 22.2, 67.6, 49.1, 110.3, 118.3, 128.3, 38.2, 38.9, 30.3]},
 # przy czym w słowniku tym znajdą się dane wyłącznie dla tych stacji, dla których zbiór wartości będzie
 # kompletny (sumy opadów zmierzono we wszystkich miesiącach roku).
-
+from funkcje import *
 
 def data_filter(slownik: dict) -> dict:
     nowy_slownik: dict = {}
-    for element in slownik:
-        if len(slownik[element]) == 12:
-            nowy_slownik[element] = slownik[element]
+    for miasto, lista_opadów in slownik.items():
+        if len(lista_opadów) == 12:
+            nowy_slownik[miasto] = lista_opadów
     return nowy_slownik
 
+
+lista: list = file_to_list('opady.csv', ';', 'utf-8')
+slownik: dict = station_dict(lista)
+filtered_slownik: dict = data_filter(slownik)
+print(filtered_slownik)

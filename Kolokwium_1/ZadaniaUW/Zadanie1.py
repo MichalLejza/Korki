@@ -63,8 +63,8 @@ def czwarty_podpunkt(lista: list[str]) -> list[str]:
 
     for i in range(len(nowa_lista)):
         imie_i_nazwisko: list = nowa_lista[i]
-        imie = imie_i_nazwisko[0]
-        nazwisko = imie_i_nazwisko[1]
+        imie: str = imie_i_nazwisko[0]
+        nazwisko: str = imie_i_nazwisko[1]
         nowa_lista[i] = imie + ' ' + nazwisko
     return nowa_lista
 

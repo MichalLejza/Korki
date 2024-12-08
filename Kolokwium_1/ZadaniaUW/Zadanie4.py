@@ -14,9 +14,10 @@
 # ['STARY FOLWARK', '2001', '12', '30.1']]
 #  Utwórz moduł zad_04.py do którego zaimportuj funkcję file_to_list(plik, sep, enc), a
 # następnie użyj jej do utworzenia listy 2D na podstawie danych zapisanych w pliku opady.csv
-from funkcje import *
+from funkcje import file_to_list
 
 
 lista: list = file_to_list('opady.csv', ';', 'utf-8')
 print(lista)
+
 
