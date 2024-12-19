@@ -17,3 +17,5 @@ from funkcje import *
 lista: list = file_to_list('opady.csv', ';', 'utf-8')
 slownik: dict = station_dict(lista)
 print(slownik)
+
+

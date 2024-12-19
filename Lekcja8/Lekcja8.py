@@ -44,6 +44,8 @@ class Motocykl(Pojazd):
 
 
 m1 = Motocykl('BMW', 'jakies', '260')
+m1.bazowa()
+m1.pochodna()
 m1.opis()
 
 # Jak działa dziedziczenie w Pythonie

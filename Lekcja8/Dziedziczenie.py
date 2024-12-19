@@ -21,6 +21,8 @@
 # - srednia_ocen (średnia ocen ucznia, np. 4.5)
 # Metody:
 # - przedstaw_sie() - rozszerza metodę z klasy Osoba, dodając informację o klasie i średniej ocen.
+
+
 # Klasa pochodna: Nauczyciel Dziedziczy z klasy Osoba.
 # Dodatkowe atrybuty:
 # - przedmiot (nauczany przedmiot, np. "Matematyka")

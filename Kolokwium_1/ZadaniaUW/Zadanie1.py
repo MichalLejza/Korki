@@ -24,10 +24,10 @@
 
 def pierwszy_podpunkt(sciezka_do_pliku: str) -> list[str]:
     lista_z_liniami = []
-    with open(sciezka_do_pliku, 'r', encoding='utf-8') as plik:
-        for linia in plik:
+    with open(sciezka_do_pliku, 'r', encoding='utf-8') as ofejkwof:
+        for linia in ofejkwof:
             lista_z_liniami.append(linia)
-    plik.close()
+    ofejkwof.close()
     return lista_z_liniami
 
 
