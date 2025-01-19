@@ -1,0 +1,530 @@
+MOCHOWO,ił,pliocen
+BARTNE,żwir,paleocen
+IŃSKO,ił,miocen
+OJCÓW,ił,pliocen
+DOBRYSZYCE,ił,paleocen
+GRUDUSK,żwir,pliocen
+NOWE MIASTO,piasek średni,pliocen
+GADKA,mułek,paleocen
+MIROSŁAWIEC,piasek pylasty,miocen
+KRUSZÓW,piasek średni,miocen
+BOLKÓW,piasek drobny,pliocen
+MŁYNY,mułek,eocen
+CIĘŻKOWICE,piasek gruby,oligocen
+MŁYNOWO,ił,oligocen
+BUKÓWKA,piasek średni,miocen
+OSIE,piasek pylasty,eocen
+KADZIDŁO,piasek pylasty,eocen
+JANÓW LUBELSKI,piasek średni,oligocen
+CHOCIANÓW,mułek,oligocen
+JASTRZĘBSKA WOLA,ił piaszczysty,oligocen
+ODOLANÓW,ił piaszczysty,pliocen
+NOWOGRÓD BOBRZAŃSKI,żwir,pliocen
+JAWOR,piasek drobny,oligocen
+BOGUSŁAWICE,ił piaszczysty,miocen
+LUTOWISKA,ił,eocen
+JAGNIĄTKÓW,ił piaszczysty,miocen
+KRZESZYCE,piasek średni,paleocen
+LELKOWO,piasek drobny,miocen
+DRONIOWICE,piasek gruby,miocen
+BORÓW,żwir,pliocen
+GŁOWBITY,piasek średni,pliocen
+JANÓW,ił piaszczysty,eocen
+BOŻEPOLE SZLACHECKIE,mułek,paleocen
+GRZMIĄCA,ił,paleocen
+MOSINA,piasek średni,miocen
+MIKOŁAJEWO,piasek gruby,eocen
+OPOCZNO,piasek drobny,oligocen
+GOZDOWICE,ił,oligocen
+DĘBOWO,żwir,oligocen
+CHOCZ,mułek,paleocen
+NOWA SŁUPIA,ił piaszczysty,oligocen
+DUBENINKI,mułek,eocen
+CZŁUCHÓW,mułek,pliocen
+KOSTKOWO,ił,miocen
+FRAMPOL,ił piaszczysty,pliocen
+KLĘKA,piasek drobny,miocen
+MURCKI,ił piaszczysty,pliocen
+MIKOROWO,ił,paleocen
+LUTOSŁAWICE RZĄDOWE,piasek pylasty,oligocen
+JANUSZEWICE,piasek pylasty,pliocen
+MACZKI,piasek pylasty,pliocen
+GALINY,piasek gruby,miocen
+GÓRKI WIELKIE,ił,paleocen
+KAŃCZUGA,ił piaszczysty,oligocen
+BRZEŹNICA,piasek średni,oligocen
+CHODEL,piasek średni,eocen
+KAZIMIERZA MAŁA,piasek pylasty,oligocen
+MALCZYCE,piasek pylasty,pliocen
+OCHABY,piasek gruby,eocen
+BOLESZKOWICE,ił,paleocen
+BARANÓW SANDOMIERSKI,piasek pylasty,miocen
+CZERNIEJEWO,piasek drobny,eocen
+BRUSIEK,żwir,eocen
+KRZĘCIN,piasek drobny,oligocen
+OSTROWIEC ŚWIĘTOKRZYSKI,piasek pylasty,eocen
+LIGOTA GÓRNA,żwir,oligocen
+BORKOWO,ił piaszczysty,eocen
+OLSZEWKI,piasek średni,oligocen
+KIKITY,ił,miocen
+ISTEBNA-WIEŚ,ił piaszczysty,pliocen
+CHOCIESZÓW,mułek,miocen
+BOLESŁAWICE,ił piaszczysty,pliocen
+FALĘCIN,mułek,eocen
+BOGLEWICE,żwir,oligocen
+IŁŻA,żwir,eocen
+FASTY,mułek,oligocen
+KŁOBUCK,ił,pliocen
+GÓROWO IŁAWECKIE,ił,miocen
+BRZEGI DOLNE,ił,eocen
+CISNA,żwir,eocen
+CZARNA WODA,żwir,oligocen
+HUCISKO JAWORNICKIE,piasek drobny,miocen
+OSIELSKO,piasek średni,miocen
+DOLECK,piasek drobny,pliocen
+GOLCZOWICE,piasek gruby,eocen
+BRODNICA,piasek pylasty,oligocen
+MIŁKOWO,żwir,oligocen
+NOWA GÓRA,piasek drobny,miocen
+GOSTKÓW,piasek gruby,paleocen
+KORZENIEWO,mułek,paleocen
+KUROWO BRANIEWSKIE,ił,paleocen
+DZIAŁOSZYN,piasek pylasty,eocen
+KOBIÓR,mułek,oligocen
+KOSARZYN,piasek średni,oligocen
+KANIÓW,mułek,paleocen
+IZBICA KUJAWSKA,piasek drobny,oligocen
+OSINÓW DOLNY,piasek średni,miocen
+KOWANIEC,piasek drobny,oligocen
+MĘTKÓW,piasek średni,miocen
+KAMESZNICA,ił,pliocen
+KACZYCE,ił piaszczysty,paleocen
+NOWOGARD,żwir,oligocen
+GRUSZCZYN,mułek,pliocen
+OKONEK,mułek,miocen
+DZIERZGOŃ,piasek gruby,pliocen
+GAJÓW,ił piaszczysty,eocen
+BORUCINO,piasek drobny,miocen
+GIŻE,piasek gruby,paleocen
+KRYWAŁD,ił piaszczysty,oligocen
+MOKRY LAS,piasek gruby,pliocen
+CIEPLICE,piasek gruby,paleocen
+KRZEPOCINEK,żwir,pliocen
+BOROWY MŁYN,mułek,pliocen
+BOĆKI,piasek średni,pliocen
+KAMIONKA,ił,eocen
+LASKI,piasek gruby,eocen
+CIOŁKOWO,ił,eocen
+KONIECPOL,mułek,oligocen
+CHODECZ,mułek,miocen
+NOWE BYSTRE,piasek drobny,paleocen
+CZARNOLAS,mułek,oligocen
+BYDGOSZCZ,piasek drobny,eocen
+KAMIENIEC ZĄBKOWICKI,piasek drobny,eocen
+BARTKÓW,piasek gruby,pliocen
+MARADKI,ił piaszczysty,eocen
+KOŃSKIE,piasek drobny,paleocen
+BRWINÓW,mułek,miocen
+DRAWSKO POMORSKIE,piasek drobny,miocen
+KOLONIA ZAKRĘCIE,piasek pylasty,miocen
+BORZĘCIN,ił piaszczysty,oligocen
+CHOJNA,ił piaszczysty,oligocen
+KIETRZ,mułek,eocen
+LUSŁAWICE,żwir,oligocen
+GIETRZWAŁD,mułek,pliocen
+GUBAŁÓWKA,ił piaszczysty,oligocen
+NOWA WIEŚ,piasek drobny,pliocen
+OSOWIEC,piasek drobny,eocen
+KONIECZNO,ił,paleocen
+GĘBICE,piasek pylasty,oligocen
+ORZECHÓWKA,ił,miocen
+BARTODZIEJE,żwir,oligocen
+KUP,ił piaszczysty,pliocen
+JEDNOROŻEC,ił piaszczysty,paleocen
+CHORZELE,ił piaszczysty,pliocen
+NOWOTANIEC,piasek pylasty,miocen
+BĄKÓW,piasek pylasty,miocen
+NOWY RAMUK,mułek,miocen
+KRZESZÓW,piasek drobny,pliocen
+KREMPNA,żwir,miocen
+BANIE MAZURSKIE,piasek średni,miocen
+DOLSK,mułek,paleocen
+KORONOWO,piasek średni,eocen
+KRASIENIN,mułek,oligocen
+OSIELEC,piasek średni,eocen
+KACZORÓW,piasek gruby,oligocen
+JAROSŁAW,piasek pylasty,paleocen
+BIAŁOBRZEGI,ił,oligocen
+JEŻÓW,piasek drobny,paleocen
+GORĘCZYNO,piasek drobny,eocen
+BURZYN,mułek,paleocen
+BOROWIEC,piasek gruby,paleocen
+KAMIENNA,mułek,oligocen
+KRZECZÓW,ił piaszczysty,pliocen
+BOGDANÓWKA,ił piaszczysty,eocen
+DOBRYLAS,piasek pylasty,pliocen
+NOWA WIEŚ WIELKA,ił piaszczysty,pliocen
+NURZEC,piasek drobny,miocen
+LUĆMIERZ,piasek średni,miocen
+MIŁORADZ,piasek pylasty,eocen
+NAREWKA,żwir,miocen
+DZIEWIĘTLICE,piasek średni,eocen
+NIEDŹWIEDZIE,piasek pylasty,paleocen
+BRZEG DOLNY,piasek pylasty,eocen
+GOWOROWICE,piasek pylasty,miocen
+CYBINKA,piasek gruby,eocen
+BARUCHOWO,ił,miocen
+GRÓDKOWO,ił,eocen
+DOROHUSK,piasek pylasty,paleocen
+LACHOWICE KRALE,piasek pylasty,paleocen
+JORDANÓW,mułek,oligocen
+LIPINY,żwir,eocen
+FAMUŁKI BROCHOWSKIE,piasek pylasty,miocen
+CZARNCA,ił,oligocen
+MIAŁY,piasek gruby,oligocen
+NOWA RUDA-SŁUPIEC,mułek,oligocen
+MIRKÓW,żwir,paleocen
+CHEŁSTÓW,ił piaszczysty,oligocen
+LEŚNA,ił piaszczysty,eocen
+BUCZYNIEC,piasek gruby,paleocen
+JABŁONKA,piasek drobny,pliocen
+DĘBINIEC,ił,pliocen
+OPIESIN,żwir,oligocen
+MORSKIE OKO,mułek,eocen
+KRASNA,ił piaszczysty,oligocen
+CIECHANOWIEC,piasek drobny,oligocen
+GOŁKOWICE,ił,oligocen
+GOSTOMIA,piasek średni,miocen
+DROZDY,piasek drobny,oligocen
+OBORNIKI ŚLĄSKIE,żwir,paleocen
+OBJAZDA,piasek średni,oligocen
+BRUSKOWO MAŁE,ił,pliocen
+CHYŻNE,piasek średni,eocen
+KOŹMICE WIELKIE,ił,miocen
+KOLBUSZOWA,piasek gruby,eocen
+KROTOSZYN,ił,pliocen
+KOMOROWO,mułek,oligocen
+DĘBLIN,ił piaszczysty,paleocen
+BRZEZINY,piasek średni,miocen
+GÓRA,ił piaszczysty,miocen
+MIEROSZÓW,ił piaszczysty,pliocen
+KARSIBÓR,ił piaszczysty,paleocen
+DYGOWO,piasek pylasty,miocen
+KARPNO,piasek drobny,pliocen
+KODEŃ,ił,eocen
+BARCIANY,żwir,eocen
+DĄBIE,żwir,paleocen
+MILICZ,ił piaszczysty,oligocen
+OSÓWKA,piasek gruby,eocen
+KORBIELÓW,piasek drobny,paleocen
+HAŃSK,ił,miocen
+BINOWO,piasek drobny,oligocen
+GRODZISK,piasek średni,miocen
+DOBRODZIEŃ,żwir,miocen
+GUTY DUŻE,mułek,eocen
+JARKOWICE,piasek średni,pliocen
+BYSTRZYCA KŁODZKA,ił piaszczysty,eocen
+DUNINÓW,ił piaszczysty,eocen
+ALWERNIA,piasek pylasty,miocen
+JARNOŁTÓWEK,piasek gruby,miocen
+BAKAŁARZEWO,mułek,eocen
+GOŁAŃCZ,piasek gruby,miocen
+DARŻ,żwir,oligocen
+LUBOMINO,mułek,eocen
+DZIEĆKOWICE,piasek drobny,eocen
+LESINY WIELKIE,ił,paleocen
+CIERPIĘTA,żwir,miocen
+BOBRY,ił,miocen
+CZERNIKOWO,mułek,oligocen
+GARBATÓWKA,piasek średni,pliocen
+DZIERŻONIÓW,piasek drobny,eocen
+KŁODAWA,ił piaszczysty,eocen
+BRANIEWO,ił piaszczysty,eocen
+NOWA WIEŚ PODGÓRNA,ił,paleocen
+ISTEBNA-STECÓWKA,mułek,eocen
+NOWOGRODZIEC,piasek pylasty,eocen
+OLSZYN,piasek gruby,eocen
+MAKOSZOWY,piasek drobny,eocen
+GŁOGÓWEK,ił,paleocen
+JASTRZYGOWICE,ił,paleocen
+DŁUGOBÓR,piasek drobny,miocen
+BIAŁKA TATRZAŃSKA,piasek drobny,eocen
+LUBIĘCIN,ił,eocen
+OSTROSZOWICE,ił piaszczysty,paleocen
+MIELEC,piasek drobny,miocen
+GOCZAŁKOWICE-ZDRÓJ,ił,oligocen
+KASZUNY,piasek gruby,pliocen
+NOWA SÓL,żwir,paleocen
+KLUCZEWO,ił,miocen
+GARDEJA,piasek średni,paleocen
+GRYBÓW,ił,eocen
+CZYŻEW,piasek pylasty,miocen
+BABORÓW,piasek średni,paleocen
+NAREW,mułek,miocen
+CHOJNÓW,żwir,oligocen
+LUBOMIERZ,piasek drobny,oligocen
+LUTOL SUCHY,piasek drobny,oligocen
+LIGOTA PIĘKNA,ił piaszczysty,pliocen
+NIEMCZA,żwir,miocen
+NOWOSIELCE,ił piaszczysty,miocen
+BRZOZIE,piasek średni,paleocen
+BRAŃSK,żwir,eocen
+CZEMIERNIKI,piasek drobny,eocen
+NIWKI,ił,eocen
+JANICE,piasek pylasty,eocen
+BRZEG,mułek,paleocen
+BUCZYNA,ił,eocen
+MIĘDZYRZECZ,ił piaszczysty,eocen
+DAŃKÓW,piasek gruby,miocen
+NOJEWO,żwir,oligocen
+DĘBY SZLACHECKIE,piasek średni,paleocen
+JEZIORNA,żwir,pliocen
+KSIĄŻ WIELKI,piasek pylasty,oligocen
+BIERNA,ił piaszczysty,miocen
+JAŚKOWO,ił piaszczysty,pliocen
+JASIONÓW,żwir,oligocen
+MAŁOGOSZCZ,mułek,oligocen
+MAŁSZEWO,piasek średni,eocen
+LINIE,piasek pylasty,paleocen
+BIERUTÓW,piasek średni,pliocen
+KOZICE (ŻYCZYN),piasek drobny,paleocen
+CIEPIELÓW,piasek średni,miocen
+JAKUBOWICE,piasek gruby,eocen
+NOWY JASINIEC,ił piaszczysty,oligocen
+KLEJNIKI,mułek,miocen
+CZESŁAWICE,piasek drobny,pliocen
+ADAMOWICE,piasek pylasty,oligocen
+ORZESZE,piasek średni,oligocen
+KĘTY,piasek gruby,paleocen
+JASIENNA,piasek gruby,eocen
+KOSTRZYN,mułek,eocen
+BOLEJNY,piasek gruby,oligocen
+ORZYSZ,piasek pylasty,pliocen
+JASTROWIE,piasek średni,oligocen
+BEŁCHATÓW,piasek gruby,pliocen
+JARNICE,ił piaszczysty,paleocen
+CIECHANOWICE,mułek,paleocen
+BRATOSZEWICE,piasek gruby,miocen
+CZELADŹ,piasek pylasty,miocen
+BOBROWICE,ił piaszczysty,eocen
+KRAJENKA,piasek pylasty,pliocen
+CHEŁSTY,ił,miocen
+KOŹMIN WIELKOPOLSKI,piasek gruby,miocen
+MYSŁAKÓW,piasek pylasty,oligocen
+KRZYNOWŁOGA MAŁA,mułek,oligocen
+OCHOTNICA GÓRNA,ił,pliocen
+OSETNO,ił,pliocen
+JAŚLISKA,ił piaszczysty,miocen
+GNOJNIK,ił,oligocen
+GRZEBIENISKO,żwir,eocen
+KURZACZE,mułek,miocen
+GWIEŹDZIN,żwir,oligocen
+NIEZABYSZEWO,żwir,paleocen
+BRANICE,piasek średni,eocen
+DĄBROWA TARNOWSKA,mułek,eocen
+BRYNICA,piasek gruby,oligocen
+KOPERNICA,piasek drobny,paleocen
+DWERNIK,ił piaszczysty,oligocen
+BISKUPIEC,piasek pylasty,miocen
+JUDYTY,mułek,pliocen
+BARDO ŚLĄSKIE,piasek drobny,eocen
+GRODZISKO DOLNE,mułek,eocen
+KOWARY,mułek,paleocen
+MICHORZEWO,mułek,eocen
+CELESTYNÓW,piasek drobny,oligocen
+CISOWA,piasek drobny,pliocen
+HUTA,ił,miocen
+KOSTRZYN NAD ODRĄ,piasek pylasty,oligocen
+MROCZKÓW,piasek drobny,eocen
+CISÓW,ił,miocen
+DRYGAŁY,ił,miocen
+LEWIN KŁODZKI,piasek pylasty,miocen
+BRZEZIE,piasek pylasty,eocen
+GOŚCIM,piasek gruby,miocen
+KONIN,piasek drobny,paleocen
+KALWARIA ZEBRZYDOWSKA,ił piaszczysty,paleocen
+GRYFINO,piasek średni,eocen
+DZIARNY,piasek gruby,miocen
+KAWĘCZYN,żwir,oligocen
+GIERAŁTOWICE,mułek,oligocen
+NOWY STAW,piasek pylasty,oligocen
+KURPIE,piasek drobny,oligocen
+KOŚCIELISKO-KIRY,piasek pylasty,eocen
+ALEKSANDRÓWKA,mułek,paleocen
+ANNOPOL,ił piaszczysty,oligocen
+MIELĘCIN,piasek średni,pliocen
+MIĘDZYRZEC PODLASKI,piasek drobny,miocen
+MOSTY,piasek gruby,eocen
+KOŚCIAN,piasek gruby,pliocen
+ODRZYWÓŁ,piasek drobny,miocen
+EŁK,piasek średni,miocen
+HAJNÓWKA,mułek,miocen
+CHOSZCZNO,mułek,paleocen
+MAZAŃCOWICE,piasek pylasty,eocen
+JAKSICE,mułek,pliocen
+KALISKA,piasek drobny,miocen
+KRASZEWICE,ił piaszczysty,oligocen
+LIPOWA,piasek średni,pliocen
+KARTLEWO,żwir,paleocen
+LUBNIEWICE,ił piaszczysty,eocen
+LUBAŃ,piasek średni,eocen
+MŁOTY,ił piaszczysty,paleocen
+CHEŁM,ił piaszczysty,miocen
+NIEZNANICE,piasek pylasty,miocen
+KLIMONTÓW,żwir,oligocen
+KANIE,piasek średni,eocen
+KRUPSKI MŁYN,piasek średni,oligocen
+BRODY IŁŻECKIE,ił piaszczysty,eocen
+KONOJAD,piasek gruby,pliocen
+MALCZKOWO,ił,pliocen
+BRODY POMORSKIE,piasek drobny,eocen
+GOŁOTCZYZNA,piasek drobny,miocen
+KOŹLE,piasek gruby,miocen
+BARWICE,mułek,miocen
+MODZURÓW,piasek drobny,pliocen
+KOWALE OLECKIE,ił,pliocen
+KADŁUB-PIEC,żwir,pliocen
+JABŁONNA,piasek średni,miocen
+IWANOWICE,ił,pliocen
+GRYŻYNA,piasek gruby,pliocen
+BIESTRZYKOWICE,żwir,paleocen
+LUBACHÓW,piasek drobny,oligocen
+CZARTORYJA,piasek pylasty,paleocen
+MYSŁAKOWICE,ił piaszczysty,eocen
+KRAPKOWICE,piasek drobny,oligocen
+CHAŁUPKI,żwir,oligocen
+BAŃSKA WYŻNA,piasek średni,eocen
+MASZEWO,piasek pylasty,pliocen
+BUKOWINA,piasek średni,miocen
+DZIAŁDOWO,piasek gruby,miocen
+NIEMOJÓW,ił,eocen
+CHROBERZ,mułek,pliocen
+BRENNA-LEŚNICA,piasek pylasty,eocen
+KOBYŁCZYCE,ił piaszczysty,pliocen
+KOŚCIELNA WIEŚ,żwir,eocen
+BACIUTY,mułek,oligocen
+KRĄG,piasek pylasty,oligocen
+JASTRZĘBNA PIERWSZA,ił,paleocen
+FUTORY,piasek drobny,eocen
+KOSOBUDY,ił,eocen
+OBORNIKI WIELKOPOLSKIE,ił,paleocen
+GOSTYNIN,piasek pylasty,pliocen
+KOSZARAWA,ił piaszczysty,oligocen
+MAKARÓWKA,piasek drobny,miocen
+BARTOSZYCE,piasek gruby,paleocen
+NIEGÓW,piasek gruby,miocen
+CIEKLIN,piasek pylasty,miocen
+BONOWICE,piasek średni,oligocen
+GRZYBNICA,żwir,eocen
+MORDY,piasek gruby,miocen
+JANOWIEC WIELKOPOLSKI,żwir,paleocen
+KLESZCZELE,piasek pylasty,oligocen
+KAMIENNA GÓRA,żwir,paleocen
+DOBRA,piasek średni,oligocen
+DOBIEGNIEW,piasek drobny,miocen
+GAWORZYCE,piasek pylasty,miocen
+NOWA PASŁĘKA,ił piaszczysty,oligocen
+FRĄCA,piasek gruby,miocen
+MIĘDZYLESIE,ił,paleocen
+JEMIOŁOWO,piasek średni,pliocen
+BARANÓWEK,ił piaszczysty,miocen
+DWORKI,piasek gruby,pliocen
+BUDZISZÓW WIELKI,żwir,oligocen
+LUBOMIN,piasek średni,eocen
+MAZANÓW,piasek gruby,pliocen
+KAMIENICA,piasek drobny,eocen
+IWINY,ił,miocen
+KUDOWA-ZDRÓJ,ił,paleocen
+ORZESZKOWO,piasek średni,pliocen
+OSTROWITE,piasek pylasty,paleocen
+DRAWNO,ił,pliocen
+KRYPNO KOŚCIELNE,ił,paleocen
+HARKABUZ,piasek drobny,paleocen
+GUBIN,ił,paleocen
+JEDLINA-ZDRÓJ,piasek gruby,pliocen
+CHRZANÓW,ił piaszczysty,pliocen
+CHEŁMSKO ŚLĄSKIE,ił piaszczysty,miocen
+KALNICA,piasek drobny,oligocen
+GRÓDEK,żwir,paleocen
+DOBROMIERZ,ił piaszczysty,pliocen
+GOLENIÓW,ił,miocen
+JAŁÓWKA,piasek gruby,pliocen
+DĘBE WIELKIE,ił,oligocen
+BROŻEK (ZASIEKI),żwir,eocen
+NOSÓW,mułek,paleocen
+JASŁO,piasek gruby,miocen
+MIĘDZYBÓRZ,żwir,eocen
+MICHÓW,piasek drobny,paleocen
+BUDZIWÓJ,mułek,oligocen
+KUŹNICA CZARNKOWSKA,piasek średni,paleocen
+MIĘDZYGÓRZE,ił piaszczysty,paleocen
+GŁOGÓW,ił,paleocen
+GŁĘBOKIE,piasek gruby,miocen
+BIELICE,piasek gruby,miocen
+LELÓW,piasek drobny,oligocen
+FRĄKNOWO,piasek pylasty,oligocen
+BOCZÓW,piasek gruby,oligocen
+KOWALEWO,ił,paleocen
+BŁOTNICA,mułek,pliocen
+BABIĘTA,mułek,eocen
+OSTRZESZÓW,piasek pylasty,eocen
+OSTRÓW WIELKOPOLSKI,piasek drobny,oligocen
+LISOWO,mułek,pliocen
+KOCIERZ MOSZCZANICKI,piasek drobny,pliocen
+KĘPIE,piasek drobny,pliocen
+DREZDENKO,piasek drobny,paleocen
+KARMONKI NOWE,mułek,miocen
+KLISZÓW,mułek,oligocen
+KRĘCIWILK,piasek drobny,eocen
+JAWISZOWICE,ił,paleocen
+KĘPA,piasek pylasty,eocen
+ISTEBNA-MŁODA GÓRA,ił,miocen
+CIELĘTNIKI,piasek drobny,paleocen
+LUBIEŃ,ił piaszczysty,oligocen
+IMBRAMOWICE,ił,paleocen
+NOWY GIERAŁTÓW,mułek,paleocen
+KOPANIEC,ił piaszczysty,oligocen
+LUTÓWKO,ił,paleocen
+LUBARTÓW,piasek średni,oligocen
+CZŁOPA,ił piaszczysty,pliocen
+JASTARNIA,ił piaszczysty,oligocen
+LUBIKOWO,piasek gruby,pliocen
+DOMANICE,piasek pylasty,miocen
+OPOLE LUBELSKIE,piasek gruby,pliocen
+KĄTY WROCŁAWSKIE,piasek pylasty,pliocen
+GÓRA KALWARIA,piasek średni,paleocen
+GRYFÓW ŚLĄSKI,mułek,pliocen
+NYSA,piasek pylasty,miocen
+LUBICZ,mułek,eocen
+KRZEMIENIEWO,mułek,pliocen
+GIŻYN,piasek średni,miocen
+BOBROWNIKI,piasek drobny,miocen
+JEŻYCZKI,mułek,eocen
+BOGUSZÓW-GORCE,piasek średni,miocen
+OBLĘGÓR,piasek drobny,paleocen
+MSZCZONÓW,mułek,oligocen
+BĄKOWO,piasek drobny,paleocen
+LUBIN,ił piaszczysty,eocen
+JERZWAŁD,ił,eocen
+KAMIEŃ KRAJEŃSKI,żwir,miocen
+KRYNICA MORSKA,żwir,pliocen
+OSJAKÓW,ił piaszczysty,eocen
+CZERWONA WIEŚ,ił piaszczysty,pliocen
+LUBAWA,żwir,eocen
+GRABOWIEC,ił,oligocen
+CHROŚNA,piasek gruby,oligocen
+GRODZIEC,mułek,miocen
+BRODNICA N/DRWĘCĄ,żwir,oligocen
+GIERCZYN,mułek,oligocen
+NAGRADOWICE,ił piaszczysty,pliocen
+LESZCZOWATE,piasek gruby,paleocen
+CHROŚNICA,piasek drobny,pliocen
+DĘBNO,mułek,miocen
+HUTKI,piasek średni,paleocen
+GORLICE,ił,eocen
+MYŚLIBÓRZ,piasek gruby,paleocen
+KARGOWA,ił piaszczysty,pliocen
+MĘŻENIN,piasek gruby,oligocen
+MOŃKI,żwir,oligocen
+IŁÓW,ił,paleocen
+MIELNO,piasek pylasty,paleocen
