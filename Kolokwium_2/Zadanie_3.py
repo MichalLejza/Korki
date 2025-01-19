@@ -42,6 +42,7 @@ class Bazowa:
         self.argument2 = argument2
 
     def print_argumenty(self):
+        print("TUTAJ METODA Z KLASY BAZOWEJ")
         print(self.argument1, self.argument2)
 
 
@@ -51,6 +52,11 @@ class Pochodna(Bazowa):
         self.argument3 = argument3
 
     def vhiwehviopw(self):
+        print(self.argument1, self.argument2, self.argument3)
+
+    # nadpisanie metody
+    def print_argumenty(self):
+        print("TUTAJ METODA Z KLASY POCHODNEJ")
         print(self.argument1, self.argument2, self.argument3)
 
 pochodna = Pochodna(10, 2, 3)
