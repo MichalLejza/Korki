@@ -32,3 +32,27 @@ ics.working_hours()
 print(ics.flavors)
 ics.add_flavour('banana')
 print(ics.flavors)
+
+
+
+
+class Bazowa:
+    def __init__(self, argument1, argument2):
+        self.argument1 = argument1
+        self.argument2 = argument2
+
+    def print_argumenty(self):
+        print(self.argument1, self.argument2)
+
+
+class Pochodna(Bazowa):
+    def __init__(self, argument1, argument2, argument3):
+        super().__init__(argument1, argument2)
+        self.argument3 = argument3
+
+    def vhiwehviopw(self):
+        print(self.argument1, self.argument2, self.argument3)
+
+pochodna = Pochodna(10, 2, 3)
+pochodna.print_argumenty()
+pochodna.vhiwehviopw()
