@@ -7,11 +7,12 @@ def zmien_napis_na_listy(napis: str) -> tuple:
     Jan,Kowalski,costam -> [Jan Kowalski costam] -> split(',')
     +, -, *, /
     :param napis:
-    :return:
+    :return: 784.12 albo 97
     """
     lista_liczby = re.findall(r'\d+\.\d+|\d+', napis)
     lista_liczby = [float(liczba) if '.' in liczba else int(liczba) for liczba in lista_liczby]
     znaki_lista = [znak for znak in napis if znak in '+-/*']
+    # - 9 0 + 6 0 - 3 0 * 1 0 / 6 + 8 -> ['+', '-', '*', '/', '+']
     if len(znaki_lista) == len(lista_liczby):
         lista_liczby = [0] + lista_liczby
     return znaki_lista, lista_liczby
@@ -89,7 +90,7 @@ def podziel(liczba1, liczba2):
     return liczba1 / liczba2
 
 if __name__ == '__main__':
-    rownanie = '90+60-30*10/6+8'
+    rownanie = '-90+60-30*10/6+8'
     znaki, liczby = zmien_napis_na_listy(rownanie)
     print(znaki)
     print(liczby)
