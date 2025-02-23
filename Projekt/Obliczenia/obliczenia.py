@@ -9,13 +9,11 @@ def zmien_napis_na_listy(napis: str) -> tuple:
     :param napis:
     :return:
     """
-
-    lista_liczby = re.split('[+-/*]', napis)
-    if lista_liczby[0] == '':
-        lista_liczby[0] = '0'
-    lista_liczby = [int(liczba) for liczba in lista_liczby]
-
+    lista_liczby = re.findall(r'\d+\.\d+|\d+', napis)
+    lista_liczby = [float(liczba) if '.' in liczba else int(liczba) for liczba in lista_liczby]
     znaki_lista = [znak for znak in napis if znak in '+-/*']
+    if len(znaki_lista) == len(lista_liczby):
+        lista_liczby = [0] + lista_liczby
     return znaki_lista, lista_liczby
 
 def policz_wynik(znaki: list, liczby: list) -> float:
@@ -51,7 +49,7 @@ def policz_wynik(znaki: list, liczby: list) -> float:
             znaki.pop(index)
         index += 1
 
-        # szukamy odejmowania
+    # szukamy odejmowania
     index = 0
     for znak in znaki:
         if znak == '-':
@@ -63,7 +61,7 @@ def policz_wynik(znaki: list, liczby: list) -> float:
             znaki.pop(index)
         index += 1
 
-        # szukamy dodawania
+    # szukamy dodawania
     index = 0
     for znak in znaki:
         if znak == '+':
@@ -90,3 +88,8 @@ def pomnoz(liczba1, liczba2):
 def podziel(liczba1, liczba2):
     return liczba1 / liczba2
 
+if __name__ == '__main__':
+    rownanie = '90+60-30*10/6+8'
+    znaki, liczby = zmien_napis_na_listy(rownanie)
+    print(znaki)
+    print(liczby)
