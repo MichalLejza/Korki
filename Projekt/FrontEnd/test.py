@@ -78,5 +78,26 @@ button_dziel.place(x=160, y=220)
 button_wynik = tk.Button(root, text='=', command=klik_rowna_sie, bg="red", fg="white", padx=20, pady=10)
 button_wynik.place(x=210, y=220)
 
+# Dropdown menu options
+options = [
+    "Red",
+    "white",
+    "Green",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+]
+
+# datatype of menu text
+clicked = tk.StringVar()
+
+# initial menu text
+clicked.set("Monday")
+
+# Create Dropdown menu
+drop = tk.OptionMenu(root, clicked, *options)
+drop.place(x=300, y=220)
+
 # Uruchomienie pętli głównej
 root.mainloop()
